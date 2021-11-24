@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Huynh Anh Khoa</h1>
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
