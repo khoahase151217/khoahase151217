@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huynh Anh Khoa</h1>
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **anhkhoahuynh90@gmail.com**
 
